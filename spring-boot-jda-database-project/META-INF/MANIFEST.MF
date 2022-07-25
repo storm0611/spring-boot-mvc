@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: springmvc5-helloworld-exmaple
+Bundle-SymbolicName: springmvc5-helloworld-exmaple
+Bundle-Version: 1.0.0.qualifier
+Export-Package: net.javaguides.springmvc.helloworld.config,
+ net.javaguides.springmvc.helloworld.controller,
+ net.javaguides.springmvc.helloworld.model
